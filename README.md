@@ -2,9 +2,9 @@
 saludos equipo OMI, aquí se encontraran los codigos resueltos en C del concurso
 
 # Instrucciones
-+ git remote add origin https://github.com/AlbertukiPRO/Programas---OMI.git
-+ git branch -M main
-+ git push -u origin main
++ instalar git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
++ ejecutar el siguiente comando en la consola de git
++ git clone https://github.com/AlbertukiPRO/Programas---OMI 
 
 o descarga la carpeta
-[aquí](https://github.com/AlbertukiPRO/Programas---OMI)
+[aquí](https://github.com/AlbertukiPRO/Programas---OMI/archive/refs/heads/master.zip)
