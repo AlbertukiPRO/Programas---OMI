@@ -3,10 +3,10 @@
 int main(){
 
     int x1, x2, y1, y2, canchas = 0, area;
-    int res;
+    int res = 0;
 
     while (canchas!=2){
-        scanf("%d %d %d %d",&x1,&y1,&x2,&y2);
+        scanf("%i %i %i %i",&x1,&y1,&x2,&y2);
         res+=(x2-x1)*(y2-y1);
         canchas++;
     }
