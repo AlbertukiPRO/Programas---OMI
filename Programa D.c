@@ -7,8 +7,7 @@ int main(){
 
     while (canchas!=2){
         scanf("%d %d %d %d",&x1,&y1,&x2,&y2);
-        area = (x2-x1)*(y2-y1);
-        res+=area;
+        res+=(x2-x1)*(y2-y1);
         canchas++;
     }
     printf("%d",res-1);
